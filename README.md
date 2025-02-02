@@ -11,7 +11,9 @@
 - Member 3: [Devika T.P] - [Sahrdaya College Of Engineering and Technology]
 
 ### Hosted Project Link
-[mention your project hosted project link here]
+https://studytracker-gilt.vercel.app/
+
+
 
 ### Project Description
 We developed this Study Tracker website to help students efficiently manage their academic tasks, track progress, and set reminders. With features like task management, data visualization, and dark mode, it ensures a user-friendly and productive study experience.
