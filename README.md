@@ -8,7 +8,7 @@
 ### Team Members
 - Member 1: [Dilna Maria Dixon] - [Sahrdaya College Of Engineering and Technology]
 - Member 2: [Christy Jose] - [Sahrdaya College Of Engineering and Technology]
-- Member 3: [Devika T.P] - [Sahrdaya College Of Engineering and Technology]
+- Member 3: [Devika T P] - [Sahrdaya College Of Engineering and Technology]
 
 ### Hosted Project Link
 https://studytracker-gilt.vercel.app/
